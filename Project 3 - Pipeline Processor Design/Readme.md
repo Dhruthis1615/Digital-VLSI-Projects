@@ -56,7 +56,7 @@ The testbench helps confirm that:
 
 ### Synthesized Processor Schematic
 
-![Pipeline Processor Schematic](PPL_Output/PPL_Schematic.png)
+![Pipeline Processor Schematic](PPL_Output/PPI_Schematic.png)
 
 This schematic represents the **hardware-level implementation of the pipelined processor after synthesis**.
 
@@ -65,19 +65,6 @@ These blocks collectively implement the pipeline stages and data flow required f
 
 ---
 
-### Simulation Waveform
-
-![Pipeline Simulation Waveform](PPL_Output/PPL_Simulation_Waveform.png)
-
-The simulation waveform verifies the functional correctness of the pipelined processor.
-
-From the waveform we can observe:
-
-- Instructions progressing through multiple pipeline stages  
-- Correct propagation of data across stages  
-- Outputs generated at the expected clock cycles  
-- Proper pipelined execution of instructions
----
 
 ## Simulation Waveform
 
