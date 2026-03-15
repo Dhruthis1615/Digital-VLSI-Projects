@@ -56,7 +56,7 @@ The testbench helps confirm that:
 
 ### Synthesized Processor Schematic
 
-![Pipeline Processor Schematic](PPL_Output/PPI_Schematic.png)
+![Pipeline Processor Schematic](PPL_Output/PPL_Schematic_Synthesis.png)
 
 This schematic represents the **hardware-level implementation of the pipelined processor after synthesis**.
 
